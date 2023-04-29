@@ -1,0 +1,1 @@
+Projeto simples de integração da API do chatGPT utilizando Node
